@@ -1,18 +1,5 @@
-# large heading
-## smaller heading
+# Junaid  Saleem
+## Coding
 
-as **italicis- imagination**
-*bold*
-- this is
-- list
+learn [ coding ] ( https://www.coursera.org/learn/linux-system-programming-introduction-to-buildroot/home/week/1 )
 
-1. this 
-2. also
-
-here is `some code` in the middle of a sentences.
-```
-This is 
-a block
-of code
-```
-to make a link [a link (https://skills.network/).
